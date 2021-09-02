@@ -1,7 +1,7 @@
  JS
                                                                                 
- Callback
- Promises 
- Sync 
+ Callback,
+ Promises,
+ Sync, 
  Async
                                                                     
